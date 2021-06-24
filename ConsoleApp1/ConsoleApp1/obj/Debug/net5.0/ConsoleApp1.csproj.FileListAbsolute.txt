@@ -14,3 +14,5 @@ C:\Users\ahmed.mahbub\Desktop\jenkins-learn\ConsoleApp1\ConsoleApp1\obj\Debug\ne
 C:\Users\ahmed.mahbub\Desktop\jenkins-learn\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ref\ConsoleApp1.dll
 C:\Users\ahmed.mahbub\Desktop\jenkins-learn\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.pdb
 C:\Users\ahmed.mahbub\Desktop\jenkins-learn\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\ahmed.mahbub\Desktop\jenkins-learn\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\ahmed.mahbub\Desktop\jenkins-learn\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csproj.CopyComplete

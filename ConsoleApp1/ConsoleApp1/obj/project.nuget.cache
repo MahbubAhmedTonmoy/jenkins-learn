@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "34IWZklHA6dUJan6KC7HQC2FZCjKnv9HrqmedG0EBjt3ZhTW/6ukskwKQXNy1W64breeklfH1v4NONWXEn+6UQ==",
+  "dgSpecHash": "nrotj93X+RJBSGbe1trP95as8h2qKfhUAMS98v2GBqBEG2Z9QNLTyeB5AuLNlKUoFHu1Bs7KreLjKC5wq0AWHA==",
   "success": true,
   "projectFilePath": "C:\\Users\\ahmed.mahbub\\Desktop\\jenkins-learn\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\ahmed.mahbub\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
   "logs": []
 }
